@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Payment-Webfont-China';
-	src:url('fonts/Payment-Webfont-China.eot?5sa910');
-	src:url('fonts/Payment-Webfont-China.eot?#iefix5sa910') format('embedded-opentype'),
-		url('fonts/Payment-Webfont-China.woff?5sa910') format('woff'),
-		url('fonts/Payment-Webfont-China.ttf?5sa910') format('truetype'),
-		url('fonts/Payment-Webfont-China.svg?5sa910#Payment-Webfont-China') format('svg');
+	src:url('fonts/Payment-Webfont-China.eot?685bdm');
+	src:url('fonts/Payment-Webfont-China.eot?#iefix685bdm') format('embedded-opentype'),
+		url('fonts/Payment-Webfont-China.woff?685bdm') format('woff'),
+		url('fonts/Payment-Webfont-China.ttf?685bdm') format('truetype'),
+		url('fonts/Payment-Webfont-China.svg?685bdm#Payment-Webfont-China') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -61,4 +61,10 @@
 }
 .icon-qilu:before {
 	content: "\e709";
+}
+.icon-spd:before {
+	content: "\e70a";
+}
+.icon-pingan:before {
+	content: "\e70b";
 }

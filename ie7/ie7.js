@@ -26,6 +26,8 @@
 		'icon-cncb': '&#xe707;',
 		'icon-cncbi': '&#xe708;',
 		'icon-qilu': '&#xe709;',
+		'icon-spd': '&#xe70a;',
+		'icon-pingan': '&#xe70b;',
 		'0': 0
 		},
 		els = document.getElementsByTagName('*'),

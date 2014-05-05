@@ -28,3 +28,5 @@ Glyphs
 * 中信银行 China Citic Bank
 * 中信银行（国际） China Citic Bank International
 * 齐鲁银行 Qilu Bank
+* 浦发银行 Shanghai Pudong Development Bank
+* 平安银行 Ping An Bank
